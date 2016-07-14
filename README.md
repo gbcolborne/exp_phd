@@ -1,6 +1,6 @@
 # Évaluation de modèles sémantiques distributionnels
 
-Ce dossier contient des ressources et des programmes que j'ai
+Ce répertoire contient des ressources et des programmes que j'ai
 développés dans le cadre de mon doctorat. L'objectif de ma recherche
 était de développer un cadre méthodologique basé sur la sémantique
 distributionnelle pour l'analyse des relations lexicales à partir de
