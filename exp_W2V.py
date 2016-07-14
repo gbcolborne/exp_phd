@@ -16,8 +16,7 @@ def join_strings_and_append_to_file(strings, filename):
         f.write(','.join(strings)+'\n')
 
 if __name__ == "__main__":
-    dsc = ("Évaluer différentes paramétrisations de word2vec "
-           "au moyen des données de référence.")
+    dsc = ("Évaluer différentes paramétrisations de word2vec au moyen des données de référence.")
     parser = argparse.ArgumentParser(description=dsc)
     parser.add_argument('-s', '--exclude_stop', action="store_true",
                         help='Exclure les mots vides des mots-cibles')
